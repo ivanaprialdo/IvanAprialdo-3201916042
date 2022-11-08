@@ -1,0 +1,47 @@
+
+.content-first {
+    padding: 5px 0;
+    color: #000000;
+    border-top: 8px inset #333;
+    border-top: 8px solid rgba(0,0,0,0.1);
+    box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.2);
+}
+
+.media, .media-body {
+    overflow: hidden;
+    zoom: 1;
+}
+
+#testimonials .media a.pull-left img {
+    max-width: 100px;
+}
+
+#testimonials .media .media-body {
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 15px 20px;
+    border-radius: 12px;
+}
+
+#testimonials .media .media-body h4 {
+    margin: 0;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+#testimonials .media .media-body span {
+    margin: 5px 0 15px;
+    display: block;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 14px;
+    color: #333;
+}
+
+#testimonials .media .media-body p {
+    margin: 0;
+    padding: 5px 0 0;
+    border-top: 1px dashed rgba(0, 0, 0, 0.2);
+    text-align: left;
+    line-height: 25px;
+    font-size: 14px;
+}                    

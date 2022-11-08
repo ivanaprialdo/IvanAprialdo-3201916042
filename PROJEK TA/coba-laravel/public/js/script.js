@@ -1,0 +1,1 @@
+alert("Hello JEMAAT GKII TIBERIAS SEKADAU!");
