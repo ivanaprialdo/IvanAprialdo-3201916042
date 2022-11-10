@@ -2,4 +2,4 @@
 Link Website : https://students.ti.elektro.polnep.ac.id/~m1916042/
 Login Admin 
 Username: 089520498844
-Paswword: 12345
+Password: 12345
